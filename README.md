@@ -2,7 +2,7 @@
 
 Technologies:
 ---------------------------------------
-- Spring (MVC, Security, JPA)
+- Spring (MVC, Security, Data)
 - MySQL
 - Hibernate
 - Maven

@@ -1,7 +1,6 @@
 package com.authorization.service;
 
 
-
 public interface SecurityService {
 
     String findLoggedInUsername();
